@@ -1,4 +1,9 @@
-# Hackathon
-This is my first git hub repository.
-<br>
-<h1>Developer</h1><h2>Anand Dwivedi</h2>
+# Resboom: Your Personalized AI-Resume Builder
+
+Welcome to the official repository of Resboom. The work is under progress.
+
+## Author
+
+**@Anand Dwivedi**
+
+[Linkedin](https://www.linkedin.com/in/anand-dwivedi-717ab12b4/)
